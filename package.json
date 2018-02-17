@@ -687,7 +687,7 @@
 "y18n": "4.0.0",
 "yallist": "2.1.2",
 "yargs": "7.1.0",
-"yargs-parser": "5.0.0",
+"yargs-parser": "5.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
